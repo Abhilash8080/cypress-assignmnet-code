@@ -1,0 +1,7 @@
+{
+  "baseurl": "https://github.com/login",
+  "UserName": "Abhilash8080",
+  "password": "gitpass@1",
+  "gitRepoName":"cypress-assignment",
+  "shortWait":3000
+}
